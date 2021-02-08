@@ -19,3 +19,5 @@ if(numNeighbours === 1) {
 } else {
     console.log("No borders");
 }
+
+// if else statement
